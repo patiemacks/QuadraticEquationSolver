@@ -1,0 +1,7 @@
+C:\Users\IT GUY\source\repos\QuadraticSolver\QuadraticSolver\bin\Debug\QuadraticSolver.exe.config
+C:\Users\IT GUY\source\repos\QuadraticSolver\QuadraticSolver\bin\Debug\QuadraticSolver.exe
+C:\Users\IT GUY\source\repos\QuadraticSolver\QuadraticSolver\bin\Debug\QuadraticSolver.pdb
+C:\Users\IT GUY\source\repos\QuadraticSolver\QuadraticSolver\obj\Debug\QuadraticSolver.csprojAssemblyReference.cache
+C:\Users\IT GUY\source\repos\QuadraticSolver\QuadraticSolver\obj\Debug\QuadraticSolver.csproj.CoreCompileInputs.cache
+C:\Users\IT GUY\source\repos\QuadraticSolver\QuadraticSolver\obj\Debug\QuadraticSolver.exe
+C:\Users\IT GUY\source\repos\QuadraticSolver\QuadraticSolver\obj\Debug\QuadraticSolver.pdb
